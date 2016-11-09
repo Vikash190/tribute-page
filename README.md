@@ -1,4 +1,4 @@
-# tribute-page'
+# tribute-page
 
 # it is a web page created in the honor of the great biologist Dr Norman Borlaug.
 
